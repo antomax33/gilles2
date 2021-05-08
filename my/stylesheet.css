@@ -1,0 +1,6 @@
+.bg-gold {
+    background-image: linear-gradient(180deg, rgb(204, 187, 133), rgb(73, 58, 9));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
