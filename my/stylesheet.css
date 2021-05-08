@@ -4,3 +4,8 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+
+.rounded-a {
+    border-radius: 20px;
+}
